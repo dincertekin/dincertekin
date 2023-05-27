@@ -59,5 +59,5 @@ Hi there, I'm **Dinçer Tekin**, a **Software Engineering Student** 🚀 from Tu
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lawnless&show_icons=true&hide_border=true&theme=nord)<br>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=dincertekin&show_icons=true&hide_border=true&theme=nord)<br>
 ⭐️ From [Dinçer Tekin](https://github.com/dincertekin)
