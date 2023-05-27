@@ -1,4 +1,4 @@
-### Hey 👋, I'm Lawnless
+### Hey 👋, I'm Dinçer Tekin
 
 <a href="https://www.linkedin.com/in/the-lawnless-a23258211/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -19,7 +19,7 @@
 <br />
 <br />
 
-Hi there, I'm **Lawnless**, a **Software Engineering Student** 🚀 from Turkey.<br>Currently, I'm working as **Cybersecurity Specialist** 💼. 
+Hi there, I'm **Dinçer Tekin**, a **Software Engineering Student** 🚀 from Turkey.<br>Currently, I'm working as **Cybersecurity Specialist** 💼. 
 
   <img width="335" align="right" alt="GIF" src="https://i.pinimg.com/originals/f3/53/03/f35303f94ccbdfe0325d7d23982ab74d.gif" />
 
@@ -30,7 +30,7 @@ Hi there, I'm **Lawnless**, a **Software Engineering Student** 🚀 from Turkey.
 - 🤔 My interests are: learning new languages, reading books, etc.
 - 💼 I’m trying to participate in competitions and win degrees.
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via <b>lawnless@protonmail.com</b> to reach me.
+- 📫 Please email via <b>dincertekin@protonmail.com</b> to reach me.
 
 
 **Languages and Tools:**  
@@ -60,4 +60,4 @@ Hi there, I'm **Lawnless**, a **Software Engineering Student** 🚀 from Turkey.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lawnless&show_icons=true&hide_border=true&theme=nord)<br>
-⭐️ From [Lawnless](https://github.com/Lawnless)
+⭐️ From [Dinçer Tekin](https://github.com/dincertekin)
