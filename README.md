@@ -10,7 +10,7 @@
   <img align="left" alt="Instagram" width="22px" src="https://i.imgur.com/c9bwrzB.png" />
 </a>
 <a href="https://open.spotify.com/user/jdeboer8-au">
-  <img align="left" alt="Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Spotify_icon.png" />
+  <img align="left" alt="Spotify" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Spotify_icon.png" />
 </a>
 
 <br />
