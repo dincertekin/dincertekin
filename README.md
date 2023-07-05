@@ -7,7 +7,7 @@
   <img align="left" alt="Twitch" width="24px" src="https://www.freepnglogos.com/uploads/purple-twitch-logo-png-18.png" />
 </a>
 <a href="https://www.instagram.com/dincertekin0/">
-  <img align="left" alt="Instagram" width="22px" src="https://static.vecteezy.com/system/resources/previews/018/930/413/original/instagram-logo-instagram-icon-transparent-free-png.png" />
+  <img align="left" alt="Instagram" width="28px" src="https://static.vecteezy.com/system/resources/previews/018/930/413/original/instagram-logo-instagram-icon-transparent-free-png.png" />
 </a>
 <a href="discord:dincertekin#2154">
   <img style="filter: invert(100%);" align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
