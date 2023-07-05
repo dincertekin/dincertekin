@@ -1,7 +1,7 @@
 ### Hey 👋, I'm Dinçer Tekin
 
 <a href="https://www.linkedin.com/in/dincertekin/">
-  <img style="filter: invert(100%);" align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />
 </a>
 <a href="https://www.twitch.tv/dincertekin0">
   <img style="filter: invert(100%);" align="left" alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitch.svg" />
