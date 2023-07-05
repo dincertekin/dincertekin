@@ -1,5 +1,7 @@
 ### Hey 👋, I'm Dinçer Tekin
 
+<script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+<iconify-icon icon="skill-icons:instagram"></iconify-icon>
 <a href="https://www.linkedin.com/in/dincertekin/">
   <img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />
 </a>
@@ -8,9 +10,6 @@
 </a>
 <a href="https://www.instagram.com/dincertekin0/">
   <img align="left" alt="Instagram" width="22px" src="https://i.imgur.com/c9bwrzB.png" />
-</a>
-<a href="discord:dincertekin#2154">
-  <img style="filter: invert(100%);" align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
 </a>
 <a href="https://open.spotify.com/user/jdeboer8-au">
   <img style="filter: invert(100%);" align="left" alt="Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spotify.svg" />
