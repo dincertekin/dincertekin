@@ -4,7 +4,7 @@
   <img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />
 </a>
 <a href="https://www.twitch.tv/dincertekin0">
-  <img style="filter: invert(100%);" align="left" alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitch.svg" />
+  <img align="left" alt="Twitch" width="22px" src="https://www.freepnglogos.com/uploads/purple-twitch-logo-png-18.png" />
 </a>
 <a href="https://www.instagram.com/dincertekin0/">
   <img style="filter: invert(100%);" align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
