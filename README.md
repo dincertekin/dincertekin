@@ -51,7 +51,6 @@ Hi there, I'm **Dinçer Tekin**, a **Software Developer** 🚀 from Turkey.<br>C
 <code><img height="20" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
 <code><img height="20" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></code>
 <code><img height="20" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-
 <code><img height="20" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
 <code><img height="20" alt="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"></code>
 <code><img height="20" alt="Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"></code>
