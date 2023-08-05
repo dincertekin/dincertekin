@@ -57,6 +57,4 @@ Hi there, I'm **Dinçer Tekin**, a **Software Developer** 🚀 from Turkey.<br>C
 <code><img height="20" alt="Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"></code>
 <code><img height="20" alt="Bash/Shell" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jdeboer8-au&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=jdeboer8-au&redirect=true)
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dincertekin&show_icons=true&hide_border=true&theme=nord)<br>
