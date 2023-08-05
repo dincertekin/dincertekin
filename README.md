@@ -1,24 +1,24 @@
 ### Hey 👋, I'm Dinçer Tekin
 
 <a href="https://www.linkedin.com/in/dincertekin/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />
-</a>
-<a href="https://www.twitch.tv/dincertekin0">
-  <img align="left" alt="Twitch" width="24px" src="https://www.freepnglogos.com/uploads/purple-twitch-logo-png-18.png" />
+  <img align="left" alt="LinkedIn" src="https://i.imgur.com/D3s2d7S.png" />
 </a>
 <a href="https://www.instagram.com/dincertekin0/">
-  <img align="left" alt="Instagram" width="22px" src="https://i.imgur.com/c9bwrzB.png" />
+  <img align="left" alt="Instagram" src="https://i.imgur.com/OUt65rD.png" />
 </a>
-<a href="https://open.spotify.com/user/jdeboer8-au">
-  <img align="left" alt="Spotify" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Spotify_icon.png" />
+<a href="https://www.youtube.com/@dincertekin">
+  <img align="left" alt="YouTube" src="https://i.imgur.com/FoSH15v.png" />
+</a>
+<a href="https://www.twitch.tv/dincertekin0">
+  <img align="left" alt="Twitch" src="https://i.imgur.com/LMUQ85O.png" />
 </a>
 
 <br />
 <br />
 
-Hi there, I'm **Dinçer Tekin**, a **Software Engineering Student** 🚀 from Turkey.<br>Currently, I'm working as **Cybersecurity Specialist** 💼. 
+Hi there, I'm **Dinçer Tekin**, a **Software Developer** 🚀 from Turkey.<br>Currently, I'm working as **Cybersecurity Analyst** 💼. 
 
-  <img width="335" align="right" alt="GIF" src="https://i.pinimg.com/originals/f3/53/03/f35303f94ccbdfe0325d7d23982ab74d.gif" />
+<img width="335" align="right" alt="GIF" src="https://i.pinimg.com/originals/f3/53/03/f35303f94ccbdfe0325d7d23982ab74d.gif" />
 
 **Talking about personal stuff:**
 
