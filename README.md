@@ -3,11 +3,14 @@
 <a href="https://www.linkedin.com/in/dincertekin/">
   <img align="left" width="26px" alt="LinkedIn" src="https://i.imgur.com/D3s2d7S.png" />
 </a>
+<a href="https://www.youtube.com/@dincertekin">
+  <img align="left" width="26px" alt="YouTube" src="https://i.imgur.com/FoSH15v.png" />
+</a>
 <a href="https://www.instagram.com/dincertekin0/">
   <img align="left" width="26px" alt="Instagram" src="https://i.imgur.com/OUt65rD.png" />
 </a>
-<a href="https://www.youtube.com/@dincertekin">
-  <img align="left" width="26px" alt="YouTube" src="https://i.imgur.com/FoSH15v.png" />
+<a href="https://www.twitter.com/dincertekin0">
+  <img align="left" width="26px" alt="Twitter" src="https://i.imgur.com/lsxWrCO.png" />
 </a>
 <a href="https://www.twitch.tv/dincertekin0">
   <img align="left" width="26px" alt="Twitch" src="https://i.imgur.com/LMUQ85O.png" />
