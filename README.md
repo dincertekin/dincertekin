@@ -54,4 +54,5 @@ Hi there, I'm **Dinçer Tekin**, a **Software Developer** 🚀 from Turkey.<br>C
 <code><img height="20" alt="Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"></code>
 <code><img height="20" alt="Bash/Shell" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dincertekin&show_icons=true&hide_border=true&theme=nord)<br>
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dincertekin&hide_border=true&theme=nord)<br>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=dincertekin&show_icons=true&hide_border=true&theme=nord)
