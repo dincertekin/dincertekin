@@ -21,8 +21,6 @@
   
 Hi there, I'm **Dinçer Tekin**, a **Software Developer** 🚀 from Turkey.<br>Currently, I'm working as **Cybersecurity Analyst** 💼. 
 
-<img width="335" align="right" alt="GIF" src="https://i.pinimg.com/originals/f3/53/03/f35303f94ccbdfe0325d7d23982ab74d.gif" />
-
 **Talking about personal stuff:**
 
 - 💻 I’m currently a Cybersecurity Analyst, working on my own projects.
