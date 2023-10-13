@@ -26,7 +26,6 @@ Hi there, I'm **Dinçer Tekin**, a **Software Developer** 🚀 from Turkey.<br>C
 - 💻 I’m currently a Cybersecurity Analyst, working on my own projects.
 - 🌱 I’m currently learning Artificial Intelligence.
 - 🤔 My interests are: learning new languages, reading books, etc.
-- 💼 I’m trying to participate in competitions and win degrees.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via <b>dincertekin@protonmail.com</b> to reach me.
 
