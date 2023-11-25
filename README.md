@@ -19,13 +19,14 @@
 <br />
 <br />
   
-Hi there, I'm **Dinçer Tekin**, a **Software Developer** 🚀 from Turkey.<br>Currently, I'm working as **Cybersecurity Analyst** 💼. 
+Hi there, I'm **Dinçer Tekin**, a **Software Developer** 🚀 from Turkey.<br>Currently, I'm working as **Freelancer** 💼. 
 
 **Talking about personal stuff:**
 
-- 💻 I’m currently a Cybersecurity Analyst, working on my own projects.
-- 🌱 I’m currently learning Artificial Intelligence.
-- 🤔 My interests are: learning new languages, reading books, etc.
+- 💻 I’m currently a Software Developer, working on my own projects.
+- 🌱 I’m currently learning Cybersecurity.
+- 📽️ I’m recording YouTube videos to teach people how to develop software.
+- 🤔 My interests are: learning new languages, reading self-improvement books, etc.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via <b>dincertekin@protonmail.com</b> to reach me.
 
@@ -40,9 +41,9 @@ Hi there, I'm **Dinçer Tekin**, a **Software Developer** 🚀 from Turkey.<br>C
 <code><img height="20" alt="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"></code>
 <code><img height="20" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
 <code><img height="20" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="20" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
 <code><img height="20" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="20" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>
-<code><img height="20" alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></code>
 <code><img height="20" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
 <code><img height="20" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
 <code><img height="20" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
