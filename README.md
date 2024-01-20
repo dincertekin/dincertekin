@@ -19,7 +19,7 @@
 <br />
 <br />
   
-Hi there, I'm **Dinçer Tekin**, a **Software Developer** 🚀 from Turkey.<br>Currently, I'm working as **Freelancer** 💼. 
+Hi there, I'm **Dinçer Tekin**, a **Software Engineer** 🚀 from Turkey.<br>Currently, I'm working as **Freelancer** 💼. 
 
 **Talking about personal stuff:**
 
