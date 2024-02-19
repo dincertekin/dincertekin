@@ -23,7 +23,7 @@ Hi there, I'm **Dinçer Tekin**, a **Software Engineer** 🚀 from Turkey.<br>Cu
 
 **Talking about personal stuff:**
 
-- 💻 I’m currently a Software Developer, working on my own projects.
+- 💻 I’m currently a Software Engineer, working on my own projects.
 - 🌱 I’m currently learning Cybersecurity.
 - 📽️ I’m recording YouTube videos to teach people how to develop software.
 - 🤔 My interests are: learning new languages, reading self-improvement books, etc.
