@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mobile Apps<br>🌱 I’m currently learning Cybersecurity<br>💬 Ask me about Web/Mobile Development<br>❤️ I love Software Development.
+🔭 I’m currently working on My Own Projects.<br>🌱 I’m currently learning Cybersecurity<br>💬 Ask me anything about Web/Mobile Development.<br>❤️ I love Software Development.
 
 
 ## 🌐 Socials:
