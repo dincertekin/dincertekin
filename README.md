@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on My Own Projects.<br>🌱 I’m currently learning Cybersecurity<br>💬 Ask me anything about Web/Mobile Development.<br>❤️ I love Software Development.<br>📹 I’m tutoring people on YouTube and Udemy.
+🔭 I’m currently working on My Own Projects.<br>🌱 I’m currently learning Cybersecurity<br>📹 I’m tutoring people on YouTube and Udemy.<br>💬 Ask me anything about Web/Mobile Development.<br>❤️ I love Software Development.
 
 
 ## 🌐 Socials:
