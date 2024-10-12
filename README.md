@@ -14,7 +14,8 @@ $ cat skills.txt
 > - Cybersecurity: "Penetration Testing, Network Security"
 
 $ ls ~/projects
-> - dtEyeCare (Maximum Eye Protection)
-> - dtBlog (Fullstack Mobile Blog App)
+> - mailogleit (E-mail OSINT Tool)
+> - dtEyeCare (Maximum Eye Protection for Windows)
+> - dtBlog (Fullstack Mobile Blogging App)
 
 $ echo "I want to put a ding in the universe." > motto.txt
