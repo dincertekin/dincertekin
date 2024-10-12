@@ -15,7 +15,6 @@ $ cat skills.txt
 
 $ ls ~/projects
 > - dtEyeCare (Maximum Eye Protection)
-> - dtBlog (Fullstack Blog App)
-> - Re-viewer (Mobile App)
+> - dtBlog (Fullstack Mobile Blog App)
 
 $ echo "I want to put a ding in the universe." > motto.txt
