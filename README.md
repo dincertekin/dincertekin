@@ -15,6 +15,7 @@ $ cat skills.txt
 
 $ ls ~/projects
 > - mailogleit (E-mail OSINT Tool)
+> - passdicit (Password List Tool)
 > - dtEyeCare (Maximum Eye Protection for Windows)
 > - dtBlog (Fullstack Mobile Blogging App)
 
