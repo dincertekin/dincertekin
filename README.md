@@ -1,6 +1,6 @@
 ```bash
 $ whoami
-> dincertekin (Cybersecurity Specialist | Software Engineer)
+> dincertekin (Cybersecurity Specialist | Software Engineer | Entrepreneur)
 
 $ pwd
 > /Turkey/Ankara
