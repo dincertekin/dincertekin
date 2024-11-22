@@ -16,7 +16,7 @@ $ cat skills.txt
 $ ls ~/projects
 > - mailogleit (E-mail OSINT Tool)
 > - passdicit (Password List Tool)
-> - dtEyeCare (Maximum Eye Protection for Windows)
-> - dtBlog (Fullstack Mobile Blogging App)
+> - wineyecare (Maximum Eye Protection for Windows)
+> - mobile-blog (Fullstack Mobile Blogging App)
 
 $ echo "I want to put a ding in the universe." > motto.txt
