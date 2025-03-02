@@ -1,18 +1,5 @@
 ### Hey 👋, I'm Dinçer Tekin
 
-<a target="_blank" href="https://www.linkedin.com/in/dincertekin/">
-  <img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg">
-</a>
-<a target="_blank" href="https://www.youtube.com/@dincertekin?sub_confirmation=1">
-  <img align="left" alt="YouTube" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg" />
-</a>
-<a target="_blank" href="https://www.instagram.com/dincertekin0/">
-  <img align="left" alt="Instagram" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" />
-</a>
-
-<br>
-<br>
-
 Hi there, I'm **Dinçer Tekin** (ˈdinˈdʒeɾ ˈteːkin), a passionate **Software Engineer** 🚀 from Turkey.<br>Currently, I'm working as **Freelancer** 💼. 
 
 **Talking about personal stuff:**
