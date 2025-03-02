@@ -5,13 +5,13 @@ Hi there, I'm **Dinçer Tekin** (ˈdinˈdʒeɾ ˈteːkin), a passionate **Softwa
 **Talking about personal stuff:**
 
 - 💻 I’m currently working on my own projects.
-- 🌱 I’m currently learning Artifical Intelligence.
-- 🤔 My interests are: learning languages, reading books, watching TV-shows.
-- 📽️ I’m recording on YouTube to tutor people how to develop software.
+- 🌱 I’m currently learning Artificial Intelligence.
+- 🤔 My interests are: learning languages, reading books, and watching TV shows.
+- 📽️ I’m recording on YouTube to tutor people on how to develop software.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via <b>dincertekincontact@gmail.com</b> to reach me.
 
-**Tech stack:**  
+**Tech Stack:**  
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff"> <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"> <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white">
   
@@ -25,9 +25,7 @@ Hi there, I'm **Dinçer Tekin** (ˈdinˈdʒeɾ ˈteːkin), a passionate **Softwa
   
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
 
-<br>
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Don%27t%20let%20the%20noise%20of%20other%27s%20opinions%20drown%20out%20your%20own%20inner%20voice.%20And%20most%20important,%20have%20the%20courage%20to%20follow%20your%20heart%20and%20intuition.%20&author=Steve%20Jobs">
 
-**Would like to support my projects?**  
+### **Would like to support my projects?**  
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/dincertekin)
