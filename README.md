@@ -1,13 +1,13 @@
 ### Hey 👋, I'm Dinçer Tekin
 
 <a target="_blank" href="https://www.linkedin.com/in/dincertekin/">
-  <img align="left" alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
+  <img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg">
 </a>
 <a target="_blank" href="https://www.youtube.com/@dincertekin?sub_confirmation=1">
-  <img align="left" alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
+  <img align="left" alt="YouTube" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg" />
 </a>
 <a target="_blank" href="https://www.instagram.com/dincertekin0/">
-  <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  <img align="left" alt="Instagram" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" />
 </a>
 
 <br>
@@ -33,6 +33,8 @@ Hi there, I'm **Dinçer Tekin** (ˈdinˈdʒeɾ ˈteːkin), a passionate **Softwa
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"> <img src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff">
   
 <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"> <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff"> <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens"> <img src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101">
+
+<img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=flat&logo=tryhackme&logoColor=white"> <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=flat&logo=hackthebox&logoColor=white"> <img src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=flat&logo=kalilinux&logoColor=white"> <img src="https://img.shields.io/badge/-Wireshark-%231679A7?style=flat&logo=wireshark&logoColor=white"> <img src="https://img.shields.io/badge/burpsuite-FF6633?style=flat&logo=burpsuite&logoColor=white"> <img src="https://img.shields.io/badge/metasploit-2596CD?style=flat&logo=metasploit&logoColor=white">
   
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
 
