@@ -5,7 +5,7 @@ Hi there, I'm **Dinçer Tekin** (ˈdinˈdʒeɾ ˈteːkin), a passionate **Softwa
 **Talking about personal stuff:**
 
 - 💻 I’m currently working on my own projects.
-- 🌱 I’m currently learning Artificial Intelligence.
+- 🌱 I’m currently learning Cybersecurity and Artificial Intelligence.
 - 🤔 My interests are: learning languages, reading books, and watching TV shows.
 - 📽️ I’m recording on YouTube to tutor people on how to develop software.
 - 💬 Ask me about anything, I am happy to help;
