@@ -1,17 +1,17 @@
-### Hey 👋, I'm Dinçer Tekin
+### Hey, I'm Dinçer 👋
 
-Hi there, I'm **Dinçer Tekin** (ˈdinˈdʒeɾ ˈteːkin), a passionate **Software Engineer** 🚀 from Turkey.<br>Currently, I'm working as **Freelancer** 💼. 
+Hi there, I'm **Dinçer Tekin** (ˈdinˈdʒeɾ ˈteːkin), a passionate **Software Engineer** 🚀 from Turkey.
 
-**Talking about personal stuff:**
+**A little about me:**
 
 - 💻 I’m currently working on my own projects.
-- 🌱 I’m currently learning Cybersecurity and Artificial Intelligence.
-- 🤔 My interests are: learning languages, reading books, and watching TV shows.
-- 📽️ I’m recording on YouTube to tutor people on how to develop software.
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via <b>dincertekincontact@gmail.com</b> to reach me.
+- 🌱 I’m learning about Cybersecurity and Artificial Intelligence.
+- 🤔 My interests include learning languages, reading books, and watching TV shows.
+- 📽️ I create content on YouTube to tutor people on software development.
+- 💬 Ask me anything — I am happy to help!
+- 📫 Feel free to email me at <b>dincertekincontact@gmail.com</b>
 
-**Tech Stack:**  
+**Tech stack:**  
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff"> <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"> <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white">
   
