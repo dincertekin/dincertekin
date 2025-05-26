@@ -9,7 +9,7 @@ Hi there, I'm **Dinçer Tekin** (ˈdinˈdʒeɾ ˈteːkin), a passionate **Softwa
 - 🤔 My interests include learning languages, reading books, and watching TV shows.
 - 📽️ I create content on YouTube to tutor people on software development.
 - 💬 Ask me anything — I am happy to help!
-- 📫 Feel free to email me at <b>dincertekincontact@gmail.com</b>
+- 📫 Feel free to email me at <b>dincertekinbusiness@gmail.com</b>
 
 **Tech stack:**  
 
