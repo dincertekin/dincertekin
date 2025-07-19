@@ -1,5 +1,3 @@
-<img align="right" width="300" src="https://i.redd.it/wmr0tntc17jx.gif">
-
 ### Hey, I'm Dinçer 👋
 
 Hi there, I'm **Dinçer Tekin** (ˈdinˈdʒeɾ ˈteːkin), a passionate **Software Engineer** 🚀 from Turkey.
