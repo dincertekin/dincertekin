@@ -1,6 +1,6 @@
 ### Hey, I'm Dinçer 👋
 
-Hi there, I'm **Dinçer Tekin** (ˈdinˈdʒeɾ ˈteːkin), a passionate **Software Engineer** 🚀 from Turkey.
+Hi there, I'm **Dinçer Tekin** (ˈdinˈdʒeɾ ˈteːkin), a passionate **Software Engineer** 🚀.
 
 **A little about me:**
 
