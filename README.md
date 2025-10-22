@@ -12,7 +12,7 @@
 \_____________________/
 
 
-[dincertekin@github] $ cat README.md
+[dincertekin@github] $ whoami
 '👋 hello, im @dincertekin (ˈdinˈdʒeɾ ˈteːkin)
 
 im a passionate software engineer who develops daily projects for fun.
