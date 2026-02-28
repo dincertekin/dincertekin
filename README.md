@@ -11,13 +11,15 @@
 /    \___________/    \
 \_____________________/
 
+open-source ❤️
+
 
 [dincertekin@github] $ whoami
 '👋 hello, im @dincertekin (ˈdinˈdʒeɾ ˈteːkin)
 
 im a passionate software engineer who develops daily projects for fun.
 recently, im working on cybersecurity.
-on my free time, i learn languages and read books. i rarely watch tv shows.
+on my free time, i learn languages and read books.
 im a content creator on youtube. feel free to email me at' dincertekinbusiness@gmail.com
 
 
@@ -40,7 +42,3 @@ websites i really like: 'github, gitlab, tryhackme, hackthebox'
 would like to support my projects?
 > https://www.buymeacoffee.com/dincertekin
 ```
-
-
-
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
