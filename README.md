@@ -11,26 +11,26 @@
 /    \___________/    \
 \_____________________/
 
-open-source ❤️
+I love open-source projects ❤️
 
 
 [dincertekin@github] $ whoami
-'👋 hello, im @dincertekin (ˈdinˈdʒeɾ ˈteːkin)
+'👋 Hello, I am Dinçer (ˈdinˈdʒeɾ)
 
-im a passionate software engineer who develops daily projects for fun.
-recently, im working on cybersecurity.
-on my free time, i learn languages and read books.
-im a content creator on youtube. feel free to email me at' dincertekinbusiness@gmail.com
+I am a passionate Software Engineer who develops daily projects for fun.
+Recently, I am working on Cybersecurity.
+On my free time, I learn languages and read books.
+I occasionally create content on YouTube. Feel free to email me at:' dincertekinbusiness@gmail.com
 
 
 [dincertekin@github] $ ls skills/
-programming languages: 'c, c#, java, python, javascript, php'
-frameworks: '.net, vue, react, express, flask'
-databases: 'mysql, postgresql, sqlite, redis, oracle'
-web: 'bootstrap, tailwindcss, jwt, socket.io'
-tools: 'docker, git, zap, wireshark, burpsuite, metasploit'
-os: 'kali linux, nixos, arch linux, windows, macos'
-websites i really like: 'github, gitlab, tryhackme, hackthebox'
+Programming Languages: 'C, C#, Java, Python, Javascript, PHP'
+Frameworks: '.NET, Vue, React, Express, Flask'
+Databases: 'MySQL, PostgreSQL, SQLite, Redis, Oracle'
+Web: 'Bootstrap, TailwindCSS, JWT, Socket.io'
+Tools: 'Docker, Git, Zap, Wireshark, Burp Suite, Metasploit'
+Operating Systems: 'Kali Linux, Nixos, Arch Linux, Windows, macOS'
+Websites: 'GitHub, GitLab, TryHackMe, HackTheBox'
 
 
 [dincertekin@github] $ echo $quote
@@ -39,6 +39,6 @@ websites i really like: 'github, gitlab, tryhackme, hackthebox'
 
 
 [dincertekin@github] $ cat support.txt | grep 'coffee'
-would like to support my projects?
+Would like to support me and my projects?
 > https://www.buymeacoffee.com/dincertekin
 ```
