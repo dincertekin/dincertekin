@@ -2,7 +2,7 @@
 
 I'm a **Software Engineer** who builds full-stack projects with a **security-first** mindset. I'm currently diving deeper into cybersecurity and offensive security research alongside my development work.
 
-🟢 **Open to work** — feel free to reach out!
+🟢 **Open to work** - feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAgMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDEgMSAyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMGgtMTkuNUMxLjIzNiAwIDAgMS4yMjcgMCAyLjcyOXYxOC41NDJDMCAyMi43NzMgMS4yMzYgMjQgMi43MjUgMjRoMTkuNDk1QzIzLjc2NiAyNCAyNSAyMi43NzMgMjUgMjEuMjcxVjIuNzI5QzI1IDEuMjI3IDIzLjc2NiAwIDIyLjIyNiAwaDAtLjAwMXoiLz48L3N2Zz4=)](https://linkedin.com/in/dincertekin) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dincertekinbusiness@gmail.com) [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=safari&logoColor=white)](https://dincertekin.com)
 
@@ -10,7 +10,7 @@ I'm a **Software Engineer** who builds full-stack projects with a **security-fir
 
 ### 🔭 What I'm working on
 
-- **vantageOS**, a hobby operating system built from scratch targeting ARM64
+- A hobby operating system built from scratch targeting ARM64
 - Improving my penetration testing skills via TryHackMe and HackTheBox
 - Creating Turkish software development tutorials on YouTube (5K+ subscribers)
 
@@ -38,13 +38,6 @@ I'm a **Software Engineer** who builds full-stack projects with a **security-fir
 
 ---
 
-### 💬 Quote
-
-> "There is no patch for human stupidity."
-> 
-> — Kevin Mitnick
-
----
 
 ### ☕ Support my work
 
