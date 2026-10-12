@@ -6,6 +6,7 @@
 
 <br />
 
+<a href="https://dincertekin.com/resume.pdf"><img src="https://img.shields.io/badge/Resume%2FCV-4B5563?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume/CV" /></a>
 <a href="mailto:dincertekinbusiness@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://linkedin.com/in/dincertekin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://youtube.com/@dincertekin"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
@@ -24,7 +25,7 @@ Beyond coding, I run a YouTube channel with over 5,000 subscribers teaching soft
 ---
 
 <details open>
-<summary><b>🛠️ Technical Toolkit</b></summary>
+<summary><b>Technical Toolkit</b></summary>
 <br />
 
 ### Languages
@@ -73,10 +74,6 @@ Beyond coding, I run a YouTube channel with over 5,000 subscribers teaching soft
 ---
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=dincertekin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
-<br /><br />
 
 > *"The people who are crazy enough to think they can change the world are the ones who do."* — Steve Jobs
 
