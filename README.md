@@ -6,7 +6,7 @@
 
 <br />
 
-<a href="https://dincertekin.com/resume.pdf"><img src="https://img.shields.io/badge/Resume%2FCV-4B5563?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume/CV" /></a>
+<a href="https://dincertekin.com/resume.pdf"><img src="https://img.shields.io/badge/Resume%2FCV-4B5563?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume/CV" /></a>
 <a href="mailto:dincertekinbusiness@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://linkedin.com/in/dincertekin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://youtube.com/@dincertekin"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
@@ -60,16 +60,6 @@ Beyond coding, I run a YouTube channel with over 5,000 subscribers teaching soft
 <img src="https://img.shields.io/badge/TryHackMe-222222?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe" />
 <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" alt="Hack The Box" />
 </details>
-
----
-
-## GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dincertekin&layout=compact&hide_border=true&theme=dark" alt="Most Used Languages" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dincertekin&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dincertekin&theme=dark&hide_border=true" alt="GitHub Streak" height="165" />
-</p>
 
 ---
 
