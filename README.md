@@ -21,10 +21,11 @@ Other projects: [caffeinate-windows](https://github.com/dincertekin/caffeinate-w
 
 ## Skills
 
-- **Languages:** Rust, TypeScript, Python, C, C#
-- **Web:** React, Fastify, PostgreSQL, SQLite, Docker
-- **Security:** applied cryptography, threat modeling, OSINT, Burp Suite, Wireshark
-- **Systems:** x86_64 assembly, file systems (FAT, exFAT, NTFS), Win32 API, Linux, NixOS
+- **Languages:** Rust, C, C#, Java, Python, JavaScript, TypeScript, PHP, x86_64 Assembly
+- **Web and databases:** React, Svelte, Express, Fastify, .NET, PostgreSQL, MySQL, SQLite, Redis
+- **Security:** Burp Suite, Metasploit, Wireshark, Kali Linux, OSINT, applied cryptography, threat modeling
+- **Practice platforms:** TryHackMe, Hack The Box
+- **Tools and systems:** Git, Docker, Linux (Arch, NixOS), Win32 API, file systems (FAT, exFAT, NTFS)
 
 ## Teaching
 
