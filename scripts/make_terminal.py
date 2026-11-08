@@ -13,7 +13,7 @@ THEMES = {
                   prompt="#1a7f37", path="#0969da", accent="#8250df", warm="#bc4c00"),
 }
 
-W, X0, LH, TOP = 720, 28, 23, 74
+W, X0, LH, TOP = 760, 28, 23, 74
 
 def esc(s): return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
@@ -22,26 +22,25 @@ P = "prompt"
 lines = [
     (P, "whoami"),
     [(0, "Dinçer Tekin", "text", True), (13, "· Computer Engineering student · software developer", "muted", False)],
-    [(0, "I build fast, private software that people actually use.", "text", False)],
     None,
     (P, "ls projects/"),
-    [(0, "reclaimer/", "accent", True),      (17, "gets back deleted photos and files", "text", False), (60, "Rust", "muted", False)],
-    [(0, "bloogla/", "accent", True),        (17, "a whole blog in one small program", "text", False),  (60, "Rust", "muted", False)],
-    [(0, "pass1/", "accent", True),          (17, "passwords only you can read", "text", False),        (60, "TypeScript", "muted", False)],
-    [(0, "theme-switcher/", "accent", True), (17, "Windows dark mode that follows the sun", "text", False), (60, "Rust", "muted", False)],
-    [(0, "alaz/", "accent", True),           (17, "an operating system, from scratch", "text", False),  (60, "C · Assembly", "muted", False)],
+    [(0, "reclaimer/", "accent", True),      (17, "data recovery for macOS, Windows and Linux", "text", False), (62, "Rust", "muted", False)],
+    [(0, "bloogla/", "accent", True),        (17, "self-hosted blog engine, single binary", "text", False),      (62, "Rust", "muted", False)],
+    [(0, "pass1/", "accent", True),          (17, "zero-knowledge password manager", "text", False),             (62, "TypeScript", "muted", False)],
+    [(0, "theme-switcher/", "accent", True), (17, "sunrise/sunset dark mode for Windows", "text", False),         (62, "Rust", "muted", False)],
+    [(0, "alaz/", "accent", True),           (17, "x86_64 hobby operating system", "text", False),               (62, "C · Assembly", "muted", False)],
     None,
     (P, "cat about.txt"),
     [(0, "languages", "warm", False), (12, "Rust · TypeScript · Python · C · C#", "text", False)],
     [(0, "focus", "warm", False),     (12, "security · systems programming · web apps", "text", False)],
-    [(0, "teaching", "warm", False),  (12, "5,000+ subscribers learning to code on YouTube", "text", False)],
+    [(0, "teaching", "warm", False),  (12, "YouTube programming courses, 5,000+ subscribers", "text", False)],
     [(0, "open to", "warm", False),   (12, "internships · junior software & security roles", "text", True)],
     None,
     (P, ""),
 ]
 
 CW = 8.6  # approx. monospace advance at 14.5px
-PROMPT = [("dincer", "prompt"), ("@", "muted"), ("github", "prompt"), (":", "muted"), ("~", "path"), ("$ ", "muted")]
+PROMPT = [("dincertekin", "prompt"), ("@", "muted"), ("github", "prompt"), (":", "muted"), ("~", "path"), ("$ ", "muted")]
 PLEN = sum(len(t) for t, _ in PROMPT)
 
 def build(name, c):
@@ -62,7 +61,7 @@ def build(name, c):
          f'<path d="M.5 40V12.5a12 12 0 0 1 12-12h{W-25}a12 12 0 0 1 12 12V40z" fill="{c["bar"]}"/>',
          f'<line x1="0" y1="40.5" x2="{W}" y2="40.5" stroke="{c["border"]}"/>',
          '<circle cx="24" cy="20" r="6" fill="#ff5f57"/><circle cx="44" cy="20" r="6" fill="#febc2e"/><circle cx="64" cy="20" r="6" fill="#28c840"/>',
-         f'<text x="{W/2}" y="25" text-anchor="middle" fill="{c["muted"]}" style="font-size:13px">dincer@github: ~</text>']
+         f'<text x="{W/2}" y="25" text-anchor="middle" fill="{c["muted"]}" style="font-size:13px">dincertekin@github: ~</text>']
     delay = 0.2
     for i, ln in enumerate(lines):
         y = TOP + i * LH
