@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
-  <img src="assets/terminal-light.svg" alt="A terminal window. whoami: Dinçer Tekin, Computer Engineering student and software developer, who builds fast, private software that people actually use. ls projects: Reclaimer recovers deleted photos and files; Bloogla is a whole blog in one small program; pass1 is a password manager only you can read; theme-switcher makes Windows dark mode follow the sun; Alaz is an operating system built from scratch. Languages: Rust, TypeScript, Python, C and C#. Focus: security, systems programming and web apps. Teaching: 5,000+ YouTube subscribers learning to code.">
+  <img src="assets/terminal-light.svg" alt="A terminal window. whoami: Dinçer Tekin, Computer Engineering student and software developer, who builds fast, private software that people actually use. ls projects: Reclaimer recovers deleted photos and files; Bloogla is a whole blog in one small program; pass1 is a password manager only you can read; theme-switcher makes Windows dark mode follow the sun; Alaz is an operating system built from scratch. Languages: Rust, TypeScript, Python, C and C#. Focus: security, systems programming and web apps. Teaching: 5,000+ YouTube subscribers learning to code. Open to internships and junior software and security engineer roles.">
 </picture>
 
 <p>
@@ -13,6 +13,7 @@
 
 ## In short
 
+- 💼 **Open to internships and junior software or security engineer roles.** [Get in touch](mailto:dincertekinbusiness@gmail.com) or see my [resume](https://dincertekin.com/resume.pdf).
 - 🎓 **Computer Engineering student who ships finished software:** apps with real downloads, documentation, tests and security reviews.
 - 🛠️ **Desktop apps, web apps and low-level systems,** mostly in Rust, TypeScript and Python.
 - 🔐 **Security-minded:** zero-knowledge encryption, written threat models, OSINT and password-audit tools.
